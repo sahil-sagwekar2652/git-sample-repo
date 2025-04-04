@@ -5,3 +5,7 @@ Sample git repo to practice git commands
 ```
 git init
 ```
+-To check git repository
+```
+git remote -v
+```
