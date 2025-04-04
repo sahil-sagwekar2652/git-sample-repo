@@ -9,3 +9,7 @@ git init
 ```
 git remote -v
 ```
+-To check the status 
+```
+git status
+```
